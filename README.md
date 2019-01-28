@@ -2,7 +2,7 @@
 
 Youtube tutorial:
 
-[![React Native Slider animation Youtube tutorial](react-native-slider-animation.jpg)](https://www.youtube.com/watch?v=XFtx09yoX0M)
+[![React Native Slider animation Youtube tutorial](react-native-slider-animation.png)](https://www.youtube.com/watch?v=XFtx09yoX0M)
 
 In this lesson we’re going to be building a react native slider animation using Expo for creating the react-native project.
 
