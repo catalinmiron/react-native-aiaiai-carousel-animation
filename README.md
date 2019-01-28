@@ -6,10 +6,10 @@ Youtube tutorial:
 
 In this lesson we’re going to be building a react native slider animation using Expo for creating the react-native project.
 
-Inspiration: https://dribbble.com/shots/2365666-Pop-up-concept
-Expo: https://expo.io/
-Popmotion Pose: https://popmotion.io/pose/
+- Inspiration: https://dribbble.com/shots/2365666-Pop-up-concept
+- Expo: https://expo.io/
 
 You can find me on:
-Github: http://github.com/catalinmiron
-Twitter: http://twitter.com/mironcatalin
+
+- Github: http://github.com/catalinmiron
+- Twitter: http://twitter.com/mironcatalin
